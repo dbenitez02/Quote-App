@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 \
 My first React app. A simple random quote.\
-Currently only holds five quotes
+Currently only holds five quotes.
 
 ## Available Scripts
 
