@@ -1,0 +1,21 @@
+.containter {
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  /* Setup */
+  position: relative;
+}
+.center {
+  color: #417ff3;
+
+  padding: 30px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.quote {
+  color: #417ff3;
+}
